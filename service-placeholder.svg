@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-label="Service image placeholder">
+  <rect width="900" height="620" rx="30" fill="#141414"/>
+  <rect x="42" y="42" width="816" height="536" rx="24" fill="none" stroke="#C9A84C" stroke-opacity="0.25" stroke-width="2"/>
+  <circle cx="176" cy="170" r="66" fill="#C9A84C"/>
+  <path d="M151 174h50M176 149v50" stroke="#0A0A0A" stroke-width="12" stroke-linecap="round"/>
+  <text x="280" y="160" fill="#F5F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">Service Visual</text>
+  <text x="282" y="218" fill="#BBBBBB" font-family="Inter, Arial, sans-serif" font-size="25">Replace with project, team, or campaign imagery.</text>
+  <rect x="110" y="330" width="680" height="22" rx="11" fill="#C9A84C" opacity="0.85"/>
+  <rect x="110" y="390" width="520" height="22" rx="11" fill="#C9A84C" opacity="0.5"/>
+  <rect x="110" y="450" width="610" height="22" rx="11" fill="#C9A84C" opacity="0.28"/>
+</svg>

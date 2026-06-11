@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Webora Digital favicon">
+  <rect width="64" height="64" rx="12" fill="#0A0A0A"/>
+  <rect x="6" y="6" width="52" height="52" rx="10" fill="none" stroke="#C9A84C" stroke-width="3"/>
+  <path d="M13 20h7l5 23 6-23h6l6 23 5-23h7l-8 31h-8l-5-19-5 19h-8L13 20Z" fill="#C9A84C"/>
+</svg>

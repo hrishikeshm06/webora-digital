@@ -1,0 +1,18 @@
+﻿{
+  "name": "Webora Digital Solution",
+  "short_name": "Webora",
+  "description": "Performance marketing agency in Mumbai for Meta Ads, Google Ads, lead generation, social media and website development.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#C9A84C",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
