@@ -121,8 +121,8 @@ section {
    NAVIGATION
 ───────────────────────────────────────── */
 nav {
-  position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
-  height: 72px;
+  position: fixed; top: 10px; left: 0; right: 0; z-index: 1000;
+  height: 84px;
   display: flex; align-items: center;
   background: transparent;
   transition: background 0.4s ease, backdrop-filter 0.4s, box-shadow 0.4s;
@@ -141,7 +141,7 @@ nav.scrolled {
 }
 
 .nav-logo {
-  display: flex; align-items: center; gap: 10px;
+  display: flex; align-items: center; gap: 14px;
   text-decoration: none; cursor: pointer;
 }
 
