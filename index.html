@@ -84,11 +84,16 @@
 <!-- ═══════════════════ NAV ═══════════════════ -->
 <nav id="mainNav" role="navigation" aria-label="Main navigation">
   <div class="nav-inner">
-    <a class="nav-logo" onclick="showPage('home')" role="button" aria-label="Webora Digital — Home">
-     <img src="Webora Digitals Logo.png"
-     alt="Webora Digital Logo"
-     style="height:50px; width:auto;">
-    </a>
+    <a class="nav-logo" onclick="showPage('home')" role="button" aria-label="Webora Digital - Home" style="display:flex;align-items:center;gap:12px;">
+    <img src="Webora Digitals Logo.png"
+         alt="Webora Digital Logo"
+         style="height:42px;width:auto;">
+
+    <div style="display:flex;flex-direction:column;line-height:1;">
+        <span style="font-size:26px;font-weight:700;letter-spacing:4px;color:#fff;">WEBORA</span>
+        <span style="font-size:11px;letter-spacing:6px;color:#C8A75A;">DIGITAL</span>
+    </div>
+</a>
     <ul class="nav-links" role="list">
       <li><a onclick="showPage('home')">Home</a></li>
       <li><a onclick="showPage('about')">About</a></li>
