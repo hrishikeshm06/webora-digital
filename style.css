@@ -154,12 +154,33 @@ nav.scrolled {
   color: var(--obsidian); flex-shrink: 0;
 }
 
-.logo-text {
-  font-family: 'Playfair Display', serif;
-  font-weight: 700; font-size: 1.05rem;
-  color: var(--ivory); letter-spacing: 0.01em;
+.logo-text{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    line-height:1;
+    margin-top:4px;
 }
-.logo-text span { color: var(--gold); }
+
+.logo-text{
+    font-family:'Playfair Display', serif;
+    font-style:italic;
+    font-size:1.4rem;
+    font-weight:700;
+    color:var(--gold);
+    letter-spacing:0.05em;
+}
+
+.logo-text span{
+    display:block;
+    margin-top:2px;
+    font-family:'Inter', sans-serif;
+    font-style:normal;
+    font-size:0.58rem;
+    font-weight:600;
+    letter-spacing:0.35em;
+    color:var(--gold);
+}
 
 .nav-links {
   display: flex; align-items: center; gap: 36px; list-style: none;
