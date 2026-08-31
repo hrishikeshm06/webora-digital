@@ -1200,3 +1200,10 @@ footer {
 /* Shared minimal footer (inner pages) */
 .shared-footer { background: #060606; padding: 40px 0 0; border-top: 1px solid var(--border-subtle); }
 .shared-footer .footer-bottom { border-top: none; padding: 24px 0; }
+/* Footer logo */
+.footer-logo {
+  width: 190px;
+  height: auto;
+  display: block;
+  margin-bottom: 24px;
+}
